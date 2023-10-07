@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "bun --bun biome check --apply-unsafe ."
   },
   "dependencies": {
     "@types/node": "20.8.2",
@@ -19,7 +19,13 @@
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2"
-  }
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.2.2",
+    "@tailwindcss/typography": "^0.5.10"
+  },
+  "license": "BSD-3-Clause"
 }
