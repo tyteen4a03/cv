@@ -1,9 +1,9 @@
 import Education from "@/app/components/Education";
 import Employment from "@/app/components/Employment";
 import Header from "@/app/components/Header";
+import Skills from "@/app/components/Skills";
 import Summary from "@/app/components/Summary";
 import Volunteering from "@/app/components/Volunteering";
-import Skills from "@/app/components/skills/Skills";
 
 export default function Home() {
     return (
