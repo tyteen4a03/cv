@@ -9,7 +9,7 @@ export default function Home() {
     return (
         <div>
             <Header />
-            <main className="flex flex-col mt-6 gap-3">
+            <main className="flex flex-col py-6 gap-4">
                 <Summary />
                 <Skills />
                 <Employment />
