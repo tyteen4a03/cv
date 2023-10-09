@@ -12,8 +12,8 @@ const Summary = () => (
         </p>
         <p>
             I enjoy being &quot;the glue&quot; to IT projects, working across disciplines to ensure it gets delivered on
-            time, meets budget and satisfies users. I specialize in full-stack development on the web but can also
-            specialise as needed.
+            time, meets budget and satisfies users. I prefer full-stack development on the web but can also
+            specialise into backend / frontend and other disciplines as needed.
         </p>
     </Section>
 );
