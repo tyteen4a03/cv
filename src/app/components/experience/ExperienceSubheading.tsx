@@ -5,7 +5,7 @@ interface ExperienceSubheadingProps {
 }
 
 const ExperienceSubheading = ({ size = "md", children }: PropsWithChildren<ExperienceSubheadingProps>) => (
-    <span className={`text-gray-500 ${size === "sm" ? "text-xs" : "text-sm"}`}>{children}</span>
+    <h5 className={`text-gray-500 ${size === "sm" ? "text-xs" : "text-sm"}`}>{children}</h5>
 );
 
 export default ExperienceSubheading;
