@@ -10,7 +10,7 @@ const Volunteering = () => (
         <Heading>Volunteering</Heading>
         <Experience>
             <ExperienceHeading>
-                Digital Development Volunteer (Tech Lead) -{" "}
+                Digital Development Volunteer (Tech Lead, Product Lead) -{" "}
                 <a href="https://www.crisis.org.uk/crisis-at-christmas/what-is-crisis-at-christmas">Crisis UK</a>
             </ExperienceHeading>
             <ExperienceSubheading>London, GB / Remote - 2015 - Present</ExperienceSubheading>
