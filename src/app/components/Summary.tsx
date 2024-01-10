@@ -11,9 +11,13 @@ const Summary = () => (
             network every Christmas.
         </p>
         <p>
-            I enjoy being &quot;the glue&quot; to IT projects, working across disciplines to ensure it gets delivered on
-            time, meets budget and satisfies users. I prefer full-stack development on the web but can also
-            specialise into backend / frontend and other disciplines as needed.
+            I enjoy being &quot;the glue&quot; to IT projects, working across disciplines to ensure they get delivered
+            on time, meet budget and satisfy users. I have created projects from scratch, and have dived into complex
+            codebases and modernised them.
+        </p>
+        <p>
+            I prefer full-stack development on the web but can also specialise into backend / frontend and other
+            disciplines as needed.
         </p>
     </Section>
 );

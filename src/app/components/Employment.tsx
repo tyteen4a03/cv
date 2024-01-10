@@ -29,8 +29,14 @@ const Employment = () => (
                 <li>Maintained reusable PHP and React components used by all teams</li>
                 <li>Organized cross-team Guilds to solve engineering issues related to ResearchGate web application</li>
                 <li>Mentored entry-level and new Software Engineers across the organisation</li>
-                <li><strong>Achievement:</strong> Migrated key products from legacy monolith to modern, Next.js-based platform</li>
-                <li><strong>Achievement:</strong> Designed and implemented payment reminder system and reduced uncollected revenue by 100%</li>
+                <li>
+                    <strong>Achievement:</strong> Migrated key products from legacy monolith to modern, Next.js-based
+                    platform
+                </li>
+                <li>
+                    <strong>Achievement:</strong> Designed and implemented payment reminder system and reduced
+                    uncollected revenue by 100%
+                </li>
             </ExperienceDetailsList>
         </Experience>
     </Section>

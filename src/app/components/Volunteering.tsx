@@ -21,17 +21,15 @@ const Volunteering = () => (
             </p>
             <ExperienceDetailsList>
                 <li>
-                    Plans, delivers and supports IT solutions (thin clients, telephony, wired/wireless internet,
-                    tablets) to help homeless guests escape homelessness at Crisis at Christmas
+                    Plans, delivers and supports IT solutions (hardware, telephony, wired/wireless internet) to help homeless guests escape homelessness at Crisis at Christmas
                 </li>
                 <li>Leads a multi-disciplinary team of IT professionals</li>
                 <li>Manages Microsoft 365 / Azure AD instance for volunteer email / collaboration software access</li>
                 <li>
-                    Helps volunteers and Crisis staff with technical problems via telephone and online ticketing system
+                    Manages team of ~25 Level 2 IT Helpdesk Volunteers
                 </li>
                 <li>Creates and maintains knowledge base and guides for users</li>
                 <li>Liaises with vendors, on-site volunteers and staff for ongoing IT problems</li>
-                <li>Continually evolves IT offerings for smoother operation and improving digital inclusion</li>
             </ExperienceDetailsList>
         </Experience>
         <Experience>
