@@ -6,25 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "bun --bun biome check --apply-unsafe ."
+    "lint": "biome lint --apply-unsafe ."
   },
   "dependencies": {
-    "@types/node": "20.8.2",
-    "@types/react": "18.2.25",
-    "@types/react-dom": "18.2.10",
+    "@types/node": "20.10.8",
+    "@types/react": "18.2.47",
+    "@types/react-dom": "18.2.18",
     "autoprefixer": "10.4.16",
-    "eslint": "8.50.0",
-    "eslint-config-next": "13.5.4",
-    "next": "13.5.4",
-    "postcss": "8.4.31",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.0.4",
+    "next": "14.0.4",
+    "postcss": "8.4.33",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.11.0",
-    "tailwindcss": "3.3.3",
-    "typescript": "5.2.2"
+    "react-icons": "^5.0.0",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.3.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.2.2",
+    "@biomejs/biome": "1.5.0",
     "@tailwindcss/typography": "^0.5.10"
   },
   "license": "BSD-3-Clause"
