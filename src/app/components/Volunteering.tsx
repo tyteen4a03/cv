@@ -21,15 +21,14 @@ const Volunteering = () => (
             </p>
             <ExperienceDetailsList>
                 <li>
-                    Plans, delivers and supports IT solutions (hardware, telephony, wired/wireless internet) to help homeless guests escape homelessness at Crisis at Christmas
+                    Plans, delivers and supports IT solutions (hardware, software, telephony, wired/wireless internet) to help homeless guests escape homelessness at Crisis at Christmas
                 </li>
+                <li>Creates and maintains bespoke, mission-critical web applications</li>
                 <li>Leads a multi-disciplinary team of IT professionals</li>
                 <li>Manages Microsoft 365 / Azure AD instance for volunteer email / collaboration software access</li>
                 <li>
-                    Manages team of ~25 Level 2 IT Helpdesk Volunteers
+                    Manages team of ~25 Level 2 IT Helpdesk Volunteers and a knowledge base
                 </li>
-                <li>Creates and maintains knowledge base and guides for users</li>
-                <li>Liaises with vendors, on-site volunteers and staff for ongoing IT problems</li>
             </ExperienceDetailsList>
         </Experience>
         <Experience>
