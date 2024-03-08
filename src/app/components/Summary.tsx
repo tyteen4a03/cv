@@ -2,7 +2,7 @@ import Section from "@/app/components/layout/Section";
 import Heading from "@/app/components/typography/Heading";
 
 const Summary = () => (
-    <Section>
+    <Section className="print:hidden">
         <Heading>Summary</Heading>
         <p>I am a software engineer with an interest in using tech for social good.</p>
         <p>

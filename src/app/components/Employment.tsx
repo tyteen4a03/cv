@@ -17,7 +17,7 @@ const Employment = () => (
                 Software Engineer - <a href="https://www.researchgate.net/">ResearchGate</a>
             </ExperienceHeading>
             <ExperienceSubheading size="sm">Berlin, DE - 2019 - 2020</ExperienceSubheading>
-            <p>
+            <p className="print:hidden">
                 ResearchGate is a social network for scientists, allowing academics to share and discuss academic
                 publications and progress.
             </p>
