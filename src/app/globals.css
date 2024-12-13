@@ -3,26 +3,26 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-  print-color-adjust: exact;
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 214, 219, 220;
+    --background-end-rgb: 255, 255, 255;
+    print-color-adjust: exact;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+    :root {
+        --foreground-rgb: 255, 255, 255;
+        --background-start-rgb: 0, 0, 0;
+        --background-end-rgb: 0, 0, 0;
+    }
 }
 
 @page {
-  size: auto;
-  /* 0.84cm  */
-  margin: 0.84cm 0;
+    size: auto;
+    /* 0.84cm  */
+    margin: 0.84cm 0;
 }
 
 @page :first {
-  margin: 0 0 0.84cm 0;
+    margin: 0 0 0.84cm 0;
 }

@@ -7,7 +7,7 @@ const Header = () => (
             <div className="flex flex-col gap-3 flex-grow">
                 <h1 className="font-bold text-3xl">Timothy Choi</h1>
                 <div>
-                    <h2 className="text-lg mb-0">Software Developer</h2>
+                    <h2 className="text-lg mb-0">Software Engineer</h2>
                     <h3 className="text-md">Berlin, DE</h3>
                 </div>
             </div>

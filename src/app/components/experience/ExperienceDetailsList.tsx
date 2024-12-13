@@ -1,4 +1,4 @@
-import { PropsWithChildren } from "react";
+import type { PropsWithChildren } from "react";
 
 const ExperienceDetailsList = ({ children }: PropsWithChildren) => <ul className="mb-0 print:my-0">{children}</ul>;
 

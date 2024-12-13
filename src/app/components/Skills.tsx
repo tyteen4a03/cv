@@ -21,21 +21,21 @@ const Skills = () => (
                 <SkillStarBadge>GraphQL</SkillStarBadge>
                 <SkillStarBadge>Jest</SkillStarBadge>
                 <SkillStarBadge>MongoDB</SkillStarBadge>
-                <SkillStarBadge>MySQL / MariaDB</SkillStarBadge>
                 <SkillStarBadge>Next.js</SkillStarBadge>
                 <SkillStarBadge>Node.js</SkillStarBadge>
+                <SkillStarBadge>PayloadCMS</SkillStarBadge>
                 <SkillStarBadge>PostgreSQL</SkillStarBadge>
                 <SkillStarBadge>React</SkillStarBadge>
                 <SkillStarBadge>Remix</SkillStarBadge>
                 <SkillStarBadge>TailwindCSS</SkillStarBadge>
                 <SkillStarBadge>Testing Library</SkillStarBadge>
                 <SkillBadge>Chakra UI</SkillBadge>
+                <SkillBadge>Cloudflare Pages</SkillBadge>
                 <SkillBadge>Docker</SkillBadge>
                 <SkillBadge>ELK Stack</SkillBadge>
                 <SkillBadge>Git</SkillBadge>
                 <SkillBadge>Laravel</SkillBadge>
-                <SkillBadge>Panda3D</SkillBadge>
-                <SkillBadge>PayloadCMS</SkillBadge>
+                <SkillBadge>MUI</SkillBadge>
                 <SkillBadge>Prisma</SkillBadge>
                 <SkillBadge>Redis</SkillBadge>
                 <SkillBadge last>Symfony</SkillBadge>
@@ -43,6 +43,7 @@ const Skills = () => (
             <SkillList heading="Others">
                 <SkillBadge>Technical Support</SkillBadge>
                 <SkillBadge>Helpdesk Management</SkillBadge>
+                <SkillBadge>Solution Architecture</SkillBadge>
                 <SkillBadge>Project / Engineering Management</SkillBadge>
                 <SkillBadge>Incident Management</SkillBadge>
                 <SkillBadge last>Social Media Management</SkillBadge>

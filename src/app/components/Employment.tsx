@@ -10,6 +10,23 @@ const Employment = () => (
         <Heading>Employment</Heading>
         <Experience>
             <ExperienceHeading>
+                Senior Software Engineer (Contract) - <a href="https://www.xo-life.com">XO Life</a>
+            </ExperienceHeading>
+            <ExperienceSubheading>Berlin, DE - 2024 - 2024</ExperienceSubheading>
+            <p className="print:hidden">
+                XO Life provides a platform for pharmaceutical companies to provide support for people taking their
+                medicines.
+            </p>
+            <ExperienceDetailsList>
+                <li>Developed new features in the client-facing vertical</li>
+                <li>
+                    Improved coding standards and practices, preparing the 5-year-old codebase for modern libraries such
+                    as MUI v6 and React 19
+                </li>
+            </ExperienceDetailsList>
+        </Experience>
+        <Experience>
+            <ExperienceHeading>
                 Senior Software Engineer - <a href="https://www.researchgate.net/">ResearchGate</a>
             </ExperienceHeading>
             <ExperienceSubheading>Berlin, DE - 2020 - 2023</ExperienceSubheading>
