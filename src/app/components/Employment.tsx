@@ -10,7 +10,7 @@ const Employment = () => (
         <Heading>Employment</Heading>
         <Experience>
             <ExperienceHeading>
-                Senior Software Engineer (Contract) - <a href="https://www.xo-life.com">XO Life</a>
+                Senior Software Engineer - <a href="https://www.xo-life.com">XO Life</a>
             </ExperienceHeading>
             <ExperienceSubheading>Berlin, DE - 2024 - 2024</ExperienceSubheading>
             <p className="print:hidden">
