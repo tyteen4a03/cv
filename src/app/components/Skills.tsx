@@ -7,7 +7,7 @@ import Heading from "@/app/components/typography/Heading";
 const Skills = () => (
     <Section>
         <Heading>Skills</Heading>
-        <div className="grid sm:grid-cols=1 md:grid-cols-[minmax(100px,1fr)_minmax(0,5fr)] print:grid-cols-[minmax(100px,1fr)_minmax(0,5fr)] gap-x-2 gap-y-3 print:gap-y-0.5 mb-4">
+        <div className="grid sm:grid-cols=1 md:grid-cols-[minmax(100px,1fr)_minmax(0,5fr)] print:grid-cols-[minmax(60px,1fr)_minmax(0,5fr)] gap-x-2 gap-y-3 print:gap-y-0.5 mb-4">
             <SkillList heading="Languages">
                 <SkillStarBadge>PHP</SkillStarBadge>
                 <SkillStarBadge>Python</SkillStarBadge>
