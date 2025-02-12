@@ -9,36 +9,37 @@ const Skills = () => (
         <Heading>Skills</Heading>
         <div className="grid sm:grid-cols=1 md:grid-cols-[minmax(100px,1fr)_minmax(0,5fr)] print:grid-cols-[minmax(60px,1fr)_minmax(0,5fr)] gap-x-2 gap-y-3 print:gap-y-0.5 mb-4">
             <SkillList heading="Languages">
-                <SkillStarBadge>PHP</SkillStarBadge>
-                <SkillStarBadge>Python</SkillStarBadge>
-                <SkillStarBadge>JavaScript / TypeScript</SkillStarBadge>
-                <SkillStarBadge>HTML</SkillStarBadge>
-                <SkillStarBadge>CSS</SkillStarBadge>
+                <SkillBadge>CSS</SkillBadge>
+                <SkillBadge>HTML</SkillBadge>
+                <SkillBadge>JavaScript / TypeScript</SkillBadge>
+                <SkillBadge>PHP</SkillBadge>
                 <SkillBadge>PowerShell</SkillBadge>
+                <SkillBadge>Python</SkillBadge>
                 <SkillBadge last>SQL</SkillBadge>
             </SkillList>
             <SkillList heading="Libraries">
-                <SkillStarBadge>GraphQL</SkillStarBadge>
-                <SkillStarBadge>Jest</SkillStarBadge>
-                <SkillStarBadge>MongoDB</SkillStarBadge>
-                <SkillStarBadge>Next.js</SkillStarBadge>
-                <SkillStarBadge>Node.js</SkillStarBadge>
-                <SkillStarBadge>PayloadCMS</SkillStarBadge>
-                <SkillStarBadge>PostgreSQL</SkillStarBadge>
-                <SkillStarBadge>React</SkillStarBadge>
-                <SkillStarBadge>Remix</SkillStarBadge>
-                <SkillStarBadge>TailwindCSS</SkillStarBadge>
-                <SkillStarBadge>Testing Library</SkillStarBadge>
                 <SkillBadge>Chakra UI</SkillBadge>
                 <SkillBadge>Cloudflare Pages</SkillBadge>
                 <SkillBadge>Docker</SkillBadge>
-                <SkillBadge>ELK Stack</SkillBadge>
+                <SkillBadge>Elasticsearch</SkillBadge>
                 <SkillBadge>Git</SkillBadge>
+                <SkillBadge>GraphQL</SkillBadge>
+                <SkillBadge>Jest</SkillBadge>
                 <SkillBadge>Laravel</SkillBadge>
+                <SkillBadge>MongoDB</SkillBadge>
                 <SkillBadge>MUI</SkillBadge>
+                <SkillBadge>Next.js</SkillBadge>
+                <SkillBadge>Node.js</SkillBadge>
+                <SkillBadge>PayloadCMS</SkillBadge>
+                <SkillBadge>PostgreSQL</SkillBadge>
                 <SkillBadge>Prisma</SkillBadge>
+                <SkillBadge>React</SkillBadge>
                 <SkillBadge>Redis</SkillBadge>
-                <SkillBadge last>Symfony</SkillBadge>
+                <SkillBadge>Remix</SkillBadge>
+                <SkillBadge>Symfony</SkillBadge>
+                <SkillBadge>TailwindCSS</SkillBadge>
+                <SkillBadge>Testing Library</SkillBadge>
+                <SkillBadge last>Vitest</SkillBadge>
             </SkillList>
             <SkillList heading="Others">
                 <SkillBadge>Technical Support</SkillBadge>
